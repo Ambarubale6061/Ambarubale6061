@@ -37,14 +37,18 @@
 
 ### 🧠 Tech Stack & Tools (Animated)
 
+### 🧠 Tech Stack & Tools (Animated)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=Java+|+JavaScript+|+TypeScript;React+|+Next.js+|+Node.js;Express+|+Spring+Boot;MongoDB+|+MySQL+|+Firebase;Tailwind+CSS+|+Bootstrap+|+Framer+Motion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=Java+|+JavaScript+|+TypeScript;React+|+Next.js+|+Node.js;Express+|+Spring+Boot;MongoDB+|+MySQL+|+Firebase;Tailwind+CSS+|+Bootstrap+|+Framer+Motion;Git+|+GitHub+|+VS+Code+|+Postman;Render+|+Vercel+|+Docker+|+Netlify" />
 </p>
+
 
 ---
 
 ### 🏗️ Currently Working On
-> 🚧 **Next-gen E-commerce platform**
+> 🚧 **Currently Building a next-gen E-commerce platform redefining online shopping.**
+
 
 ---
 
