@@ -1,8 +1,10 @@
 <h1 align="center">
   <a href="https://ambarportfolio.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=35&duration=4000&pause=1000&color=1e90ff&center=true&vCenter=true&repeat=true&lines=Hello+👋;I+am+Ambar+Ubale;Full+Stack+MERN+%2B+Java+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=35&duration=4000&pause=1000&color=1e90ff&center=true&vCenter=true&repeat=true&width=800&lines=Hello+👋;I+am+Ambar+Ubale;Full+Stack+MERN+%2B+Java+Developer" alt="Typing Animation" />
   </a>
 </h1>
+
+<h3 align="center">💻 Full Stack MERN + Java Developer | Crafting modern web experiences</h3>
 
 <p align="center">
   <a href="https://ambarportfolio.vercel.app/" target="_blank">
@@ -18,8 +20,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ambarubale6061&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ambarubale6061?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Ambarubale6061?label=Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Ambarubale6061?label=Followers&style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Ambarubale6061?label=Stars&style=for-the-badge" alt="stars"/>
 </p>
 
 ---
@@ -36,7 +38,7 @@
 ### 🧠 Tech Stack & Tools (Animated)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&lines=Java+|+JavaScript+|+TypeScript;React+|+Next.js+|+Node.js;Express+|+Spring+Boot;MongoDB+|+MySQL+|+Firebase;Tailwind+CSS+|+Bootstrap+|+Framer+Motion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=Java+|+JavaScript+|+TypeScript;React+|+Next.js+|+Node.js;Express+|+Spring+Boot;MongoDB+|+MySQL+|+Firebase;Tailwind+CSS+|+Bootstrap+|+Framer+Motion" />
 </p>
 
 ---
@@ -72,6 +74,13 @@
 
 ---
 
+### 🐍 Contribution Graph (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ambarubale6061/Ambarubale6061/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🧩 Featured Projects
 
 | Project                    | Description                            | Tech Stack                | Live Demo                                 |
@@ -90,13 +99,6 @@
 
 ---
 
-### 🐍 Contribution Graph (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ambarubale6061/Ambarubale6061/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Code,+Create,+and+Contribute+—+that’s+how+I+grow!;Made+with+❤️+by+Ambar+Ubale!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=800&lines=Code,+Create,+and+Contribute+—+that’s+how+I+grow!;Made+with+❤️+by+Ambar+Ubale!" />
 </p>
