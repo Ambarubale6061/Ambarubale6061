@@ -37,7 +37,6 @@
 
 ### 🧠 Tech Stack & Tools (Animated)
 
-### 🧠 Tech Stack & Tools (Animated)
 
 <p align="center">
   <!-- Logos -->
@@ -45,7 +44,6 @@
   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -62,22 +60,20 @@
 </p>
 
 
+
+
 ---
 
 ### 🏗️ Currently Working On
+
+
 > 🚧 **Currently Building a next-gen E-commerce platform redefining online shopping.**
 
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ambarubale6061&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ambarubale6061&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambarubale6061&theme=radical&hide_border=true" />
@@ -90,6 +86,8 @@
 ---
 
 ### ⚡ GitHub Activity Graph
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambarubale6061&theme=react-dark&bg_color=20232a&hide_border=true&area=true" />
 </p>
@@ -97,6 +95,8 @@
 ---
 
 ### 🐍 Contribution Graph (Animated)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ambarubale6061/Ambarubale6061/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -104,6 +104,7 @@
 ---
 
 ### 🧩 Featured Projects
+
 
 | Project                    | Description                            | Tech Stack                | Live Demo                                 |
 | -------------------------- | -------------------------------------- | ------------------------- | ----------------------------------------- |
@@ -113,6 +114,7 @@
 ---
 
 ### 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:ambarubale3333@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
   <a href="https://www.linkedin.com/in/ambar-ubale-137214230/"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
