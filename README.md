@@ -28,19 +28,29 @@
 
 ### 🚀 About Me
 
-### 🚀 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300" />
-</p>
+<table>
+  <tr>
+    <!-- GIF Side -->
+    <td align="center">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="350" />
+    </td>
 
-Hi! I'm **Ambar Ubale**, a **Full Stack MERN + Java Developer** crafting modern web experiences.  
-I love clean UI, solving DSA in Java, and building scalable web apps.  
+    <!-- Text Side -->
+    <td>
+      <p>
+        Hi! I'm <b>Ambar Ubale</b>, a <b>Full Stack MERN + Java Developer</b> crafting modern web experiences.<br>
+        I love clean UI, solving DSA in Java, and building scalable web applications.<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=JavaScript;TypeScript;React.js;Node.js;Next.js;MongoDB;MySQL;Python" />
-</p>
-  
+        <b>Tech Specialties:</b>
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=450&lines=JavaScript;TypeScript;React.js;Node.js;Next.js;MongoDB;MySQL;Python" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
