@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ambar Ubale</h1>
-<h3 align="center">💻 Full Stack MERN + Java Developer | Crafting modern web experiences</h3>
+<h1 align="center">
+  <a href="https://ambarportfolio.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=35&duration=4000&pause=1000&color=1e90ff&center=true&vCenter=true&repeat=true&lines=Hello+👋;I+am+Ambar+Ubale;Full+Stack+MERN+%2B+Java+Developer" alt="Typing Animation" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://ambarportfolio.vercel.app/" target="_blank">
@@ -14,57 +17,43 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ambarubale6061&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="AmbarUbale" />
-  <img src="https://img.shields.io/github/followers/Ambarubale6061?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/Ambarubale6061?label=Stars&style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Ambarubale6061&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ambarubale6061?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Ambarubale6061?label=Stars&style=for-the-badge" alt="Stars"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently mastering **MERN Stack + Java + Next.js**
-- 💡 Building **a next-gen E-commerce platform** redefining online shopping
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Java Spring Boot**
-- ⚡ Fun fact: I love clean UI + solving DSA in Java
+- 🌱 Currently mastering **MERN Stack + Java + Next.js**  
+- 💡 Building **a next-gen E-commerce platform**  
+- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Java Spring Boot**  
+- ⚡ Fun fact: I love clean UI + solving DSA in Java  
 
 ---
 
-### 🧠 Tech Stack & Tools
+### 🧠 Tech Stack & Tools (Animated)
 
-#### 💻 Languages & Frameworks
-`Java` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Express` · `Spring Boot`
-
-#### 🛢️ Databases
-`MongoDB` · `MySQL` · `Firebase`
-
-#### 🧰 Tools & Platforms
-`Git` · `GitHub` · `VS Code` · `Postman` · `Render` · `Vercel` · `Docker` · `Netlify`
-
-#### 🎨 UI & Styling
-`Tailwind CSS` · `Bootstrap` · `Framer Motion`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&lines=Java+|+JavaScript+|+TypeScript;React+|+Next.js+|+Node.js;Express+|+Spring+Boot;MongoDB+|+MySQL+|+Firebase;Tailwind+CSS+|+Bootstrap+|+Framer+Motion" />
+</p>
 
 ---
 
 ### 🏗️ Currently Working On
-
-> 🚧 **Building a next-gen E-commerce platform redefining online shopping**
+> 🚧 **Next-gen E-commerce platform**
 
 ---
 
-
 ### 🏆 GitHub Trophies
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ambarubale6061&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ambarubale6061&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambarubale6061&theme=radical&hide_border=true" />
@@ -77,7 +66,6 @@
 ---
 
 ### ⚡ GitHub Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambarubale6061&theme=react-dark&bg_color=20232a&hide_border=true&area=true" />
 </p>
@@ -88,13 +76,12 @@
 
 | Project                    | Description                            | Tech Stack                | Live Demo                                 |
 | -------------------------- | -------------------------------------- | ------------------------- | ----------------------------------------- |
-| ✅ **Task App**            | Manage daily tasks with authentication | MERN Stack                |https://task-app-nine-lovat.vercel.app/login|
-| 🛍️ **E-Commerce Platform** | Currently in development               | Next.js, Node.js, MongoDB | https://quickcart-ten-opal.vercel.app/    |
+| ✅ **Task App**            | Manage daily tasks with authentication | MERN Stack                | [Live](https://task-app-nine-lovat.vercel.app/login) |
+| 🛍️ **E-Commerce Platform** | Currently in development               | Next.js, Node.js, MongoDB | [Live](https://quickcart-ten-opal.vercel.app/) |
 
 ---
 
 ### 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:ambarubale3333@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
   <a href="https://www.linkedin.com/in/ambar-ubale-137214230/"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
@@ -104,7 +91,6 @@
 ---
 
 ### 🐍 Contribution Graph (Animated)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ambarubale6061/Ambarubale6061/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
