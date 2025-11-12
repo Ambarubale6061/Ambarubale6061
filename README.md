@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmbarUbale&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="AmbarUbale" />
-  <img src="https://img.shields.io/github/followers/AmbarUbale?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/AmbarUbale?label=Stars&style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Ambarubale6061&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="AmbarUbale" />
+  <img src="https://img.shields.io/github/followers/Ambarubale6061?label=Followers&style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Ambarubale6061?label=Stars&style=for-the-badge" alt="stars"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmbarUbale&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ambarubale6061&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmbarUbale&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmbarUbale&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ambarubale6061&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambarubale6061&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbarUbale&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambarubale6061&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### ⚡ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmbarUbale&theme=react-dark&bg_color=20232a&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambarubale6061&theme=react-dark&bg_color=20232a&hide_border=true&area=true" />
 </p>
 
 ---
@@ -85,9 +85,8 @@
 
 | Project                    | Description                            | Tech Stack                | Live Demo                                 |
 | -------------------------- | -------------------------------------- | ------------------------- | ----------------------------------------- |
-| 🧾 **Resume Builder**      | Create & download professional resumes | Next.js, Node.js, MongoDB | [Live](https://ambarportfolio.vercel.app) |
-| ✅ **Task App**            | Manage daily tasks with authentication | MERN Stack                | —                                         |
-| 🛍️ **E-Commerce Platform** | Currently in development               | Next.js, Node.js, MongoDB | —                                         |
+| ✅ **Task App**            | Manage daily tasks with authentication | MERN Stack                |https://task-app-nine-lovat.vercel.app/login|
+| 🛍️ **E-Commerce Platform** | Currently in development               | Next.js, Node.js, MongoDB | https://quickcart-ten-opal.vercel.app/    |
 
 ---
 
@@ -104,7 +103,7 @@
 ### 🐍 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmbarUbale/AmbarUbale/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ambarubale6061/Ambarubale6061/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
