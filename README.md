@@ -28,10 +28,19 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently mastering **MERN Stack + Java + Next.js**  
-- 💡 Building **a next-gen E-commerce platform**  
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Java Spring Boot**  
-- ⚡ Fun fact: I love clean UI + solving DSA in Java  
+### 🚀 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300" />
+</p>
+
+Hi! I'm **Ambar Ubale**, a **Full Stack MERN + Java Developer** crafting modern web experiences.  
+I love clean UI, solving DSA in Java, and building scalable web apps.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=JavaScript;TypeScript;React.js;Node.js;Next.js;MongoDB;MySQL;Python" />
+</p>
+  
 
 ---
 
