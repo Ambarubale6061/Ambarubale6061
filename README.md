@@ -56,7 +56,7 @@
 
 <p align="center">
   <!-- Animated Names -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=HTML;CSS;JavaScript;React.js;Next.js;TailwindCSS;TypeScript;Node.js;Express.js;Java;Spring Boot;MongoDB;Git" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=HTML;CSS;JavaScript;React.js;Next.js;TailwindCSS;TypeScript;Node.js;Express.js;Java;SpringBoot;MongoDB;Git" />
 </p>
 
 
