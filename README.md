@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" height="50" width="50"/> 
-  <a href="https://ambarportfolio.vercel.app/" target="_blank">
+  <a href="[https://ambarportfolio.vercel.app/](https://ambarubale.vercel.app/)" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=35&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&lines=Hello+👋;I'm+Ambar+Ubale;Full+Stack+MERN+%2B+Java+Developer;Building+Modern+Web+Experiences" alt="Typing Animation" />
   </a>
 </h1>
