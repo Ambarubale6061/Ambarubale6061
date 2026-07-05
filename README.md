@@ -12,7 +12,7 @@
 <h3 align="center">💻 Full Stack MERN + Java Developer | Passionate about crafting elegant, modern web apps</h3>
 
 <p align="center">
-  <a href="https://ambarportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="[https://ambarportfolio.vercel.app/](https://ambarubale.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:ambarubale3333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ambar-ubale-137214230/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
